@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pjHwelNGr/RYp3SaumlEqcMsWBgxeaKYJwFYYAc2ZgLticxW+Ygk45mS1O5qFd3HR3xZBa1HrHkxmoPkWKWeiA==",
+  "dgSpecHash": "MfVho1j9O6SSGiMFGBxhghXxCESbO4tG2HByvI7t8FHRZquRq6Euyz3hAeJOw+usPu7KLej6hJ7euh07zPaUew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Meta Code\\Desktop\\Projeto-Confeitaria\\Back\\ProjetoConfeitaria.API\\ProjetoConfeitaria.API\\ProjetoConfeitaria.API.csproj",
+  "projectFilePath": "C:\\Users\\Meta Code\\Desktop\\Projeto-Confeitaria\\Back\\ProjetoConfeitaria.API\\ProjetoConfeitaria.API\\Confeitaria.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Meta Code\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\Meta Code\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

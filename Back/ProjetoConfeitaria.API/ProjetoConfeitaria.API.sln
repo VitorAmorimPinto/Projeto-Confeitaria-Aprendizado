@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoConfeitaria.API", "ProjetoConfeitaria.API\ProjetoConfeitaria.API.csproj", "{27FB1632-97F6-42DC-AFC4-710FA4E2D22A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoConfeitaria.API", "ProjetoConfeitaria.API\ProjetoConfeitaria.API.csproj", "{27FB1632-97F6-42DC-AFC4-710FA4E2D22A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Confeitaria.Models", "Confeitaria.Models\Confeitaria.Models.csproj", "{560ED752-81A0-4E85-8464-DC71BB15B131}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{27FB1632-97F6-42DC-AFC4-710FA4E2D22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27FB1632-97F6-42DC-AFC4-710FA4E2D22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27FB1632-97F6-42DC-AFC4-710FA4E2D22A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{560ED752-81A0-4E85-8464-DC71BB15B131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560ED752-81A0-4E85-8464-DC71BB15B131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560ED752-81A0-4E85-8464-DC71BB15B131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560ED752-81A0-4E85-8464-DC71BB15B131}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -107,6 +107,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Confeitaria.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Confeitaria.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Confeitaria.Models.dll": {}
+        }
       }
     }
   },
@@ -451,10 +461,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Confeitaria.Models/1.0.0": {
+      "type": "project",
+      "path": "../Confeitaria.Models/Confeitaria.Models.csproj",
+      "msbuildProject": "../Confeitaria.Models/Confeitaria.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Confeitaria.Models >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.5",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -465,9 +481,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Meta Code\\Desktop\\Projeto-Confeitaria\\Back\\ProjetoConfeitaria.API\\ProjetoConfeitaria.API\\ProjetoConfeitaria.API.csproj",
-      "projectName": "ProjetoConfeitaria.API",
-      "projectPath": "C:\\Users\\Meta Code\\Desktop\\Projeto-Confeitaria\\Back\\ProjetoConfeitaria.API\\ProjetoConfeitaria.API\\ProjetoConfeitaria.API.csproj",
+      "projectUniqueName": "C:\\Users\\Meta Code\\Desktop\\Projeto-Confeitaria\\Back\\ProjetoConfeitaria.API\\ProjetoConfeitaria.API\\Confeitaria.API.csproj",
+      "projectName": "Confeitaria.API",
+      "projectPath": "C:\\Users\\Meta Code\\Desktop\\Projeto-Confeitaria\\Back\\ProjetoConfeitaria.API\\ProjetoConfeitaria.API\\Confeitaria.API.csproj",
       "packagesPath": "C:\\Users\\Meta Code\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Meta Code\\Desktop\\Projeto-Confeitaria\\Back\\ProjetoConfeitaria.API\\ProjetoConfeitaria.API\\obj\\",
       "projectStyle": "PackageReference",
@@ -485,7 +501,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Meta Code\\Desktop\\Projeto-Confeitaria\\Back\\ProjetoConfeitaria.API\\Confeitaria.Models\\Confeitaria.Models.csproj": {
+              "projectPath": "C:\\Users\\Meta Code\\Desktop\\Projeto-Confeitaria\\Back\\ProjetoConfeitaria.API\\Confeitaria.Models\\Confeitaria.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
