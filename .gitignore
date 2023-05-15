@@ -1,0 +1,62 @@
+# Arquivos e diretórios específicos para projetos ASP.NET Core
+
+## Diretórios
+
+# Pasta binária, contém os arquivos compilados
+/bin/
+/obj/
+
+# Pasta de publicação, contém os arquivos publicados
+/Publish/
+
+## Arquivos
+
+# Arquivo de configuração local usado para debug
+launchSettings.json
+
+# Arquivos de backup gerados pelo Visual Studio
+*.bak
+
+# Arquivos de projeto do Visual Studio
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivo de configuração do NuGet
+nuget.config
+
+# Arquivos gerados pelo EF Core
+*.edmx
+*.csdl
+*.ssdl
+*.msl
+*.pdb
+
+# SQLite
+*.sqlite
+
+# Ficheiros de configuração de base de dados
+*.dbmdl
+
+# Arquivo de configuração do Azure
+appsettings.Development.json
+
+# Arquivo de registro do aplicativo
+*.logs
+*.log
+*.log.*
+
+# Pacotes NuGet
+packages/
+
+# Cache do NuGet
+.nuget/
+
+# Diretório de ferramentas
+/tools/
+
+# Registro de depuração
+*.sw*
+*.userprefs
+*.bak
+*.csharp_history
