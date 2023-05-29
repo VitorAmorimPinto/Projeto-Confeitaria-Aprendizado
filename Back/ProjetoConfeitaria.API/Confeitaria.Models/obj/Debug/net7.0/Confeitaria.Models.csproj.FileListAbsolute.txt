@@ -1,0 +1,12 @@
+C:\Users\Meta Code\Desktop\Projeto-Confeitaria\Back\ProjetoConfeitaria.API\Confeitaria.Models\bin\Debug\net7.0\Confeitaria.Models.deps.json
+C:\Users\Meta Code\Desktop\Projeto-Confeitaria\Back\ProjetoConfeitaria.API\Confeitaria.Models\bin\Debug\net7.0\Confeitaria.Models.dll
+C:\Users\Meta Code\Desktop\Projeto-Confeitaria\Back\ProjetoConfeitaria.API\Confeitaria.Models\bin\Debug\net7.0\Confeitaria.Models.pdb
+C:\Users\Meta Code\Desktop\Projeto-Confeitaria\Back\ProjetoConfeitaria.API\Confeitaria.Models\obj\Debug\net7.0\Confeitaria.Models.csproj.AssemblyReference.cache
+C:\Users\Meta Code\Desktop\Projeto-Confeitaria\Back\ProjetoConfeitaria.API\Confeitaria.Models\obj\Debug\net7.0\Confeitaria.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meta Code\Desktop\Projeto-Confeitaria\Back\ProjetoConfeitaria.API\Confeitaria.Models\obj\Debug\net7.0\Confeitaria.Models.AssemblyInfoInputs.cache
+C:\Users\Meta Code\Desktop\Projeto-Confeitaria\Back\ProjetoConfeitaria.API\Confeitaria.Models\obj\Debug\net7.0\Confeitaria.Models.AssemblyInfo.cs
+C:\Users\Meta Code\Desktop\Projeto-Confeitaria\Back\ProjetoConfeitaria.API\Confeitaria.Models\obj\Debug\net7.0\Confeitaria.Models.csproj.CoreCompileInputs.cache
+C:\Users\Meta Code\Desktop\Projeto-Confeitaria\Back\ProjetoConfeitaria.API\Confeitaria.Models\obj\Debug\net7.0\Confeitaria.Models.dll
+C:\Users\Meta Code\Desktop\Projeto-Confeitaria\Back\ProjetoConfeitaria.API\Confeitaria.Models\obj\Debug\net7.0\refint\Confeitaria.Models.dll
+C:\Users\Meta Code\Desktop\Projeto-Confeitaria\Back\ProjetoConfeitaria.API\Confeitaria.Models\obj\Debug\net7.0\Confeitaria.Models.pdb
+C:\Users\Meta Code\Desktop\Projeto-Confeitaria\Back\ProjetoConfeitaria.API\Confeitaria.Models\obj\Debug\net7.0\ref\Confeitaria.Models.dll

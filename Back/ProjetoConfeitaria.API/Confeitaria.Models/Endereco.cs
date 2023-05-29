@@ -16,5 +16,11 @@ namespace Confeitaria.Models
         public string Localidade { get; set; }
         public string Uf { get; set; }
         public string Complemento { get; set; }
+        public int? UsuarioId { get; set; }
+        public Usuario Usuario { get; set; }
+        public int? EstabelecimentoId { get; set; }
+        public Estabelecimento Estabelecimento { get; set; }
+
+
     }
 }
